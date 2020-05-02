@@ -16,7 +16,7 @@ import { PostsModule } from './posts/posts.module';
     AppComponent,
     PinstripeCardComponent,
     TitlebarComponentComponent,
-    HomePageComponent
+    HomePageComponent,
   ],
   imports: [
     BrowserModule,
